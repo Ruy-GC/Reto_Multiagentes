@@ -1,0 +1,4 @@
+Flask==2.2.2
+Flask-JSON==0.3.4
+Pyrebase==3.0.27
+python-dotenv==0.21.0
